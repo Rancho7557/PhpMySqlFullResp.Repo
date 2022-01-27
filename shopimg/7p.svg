@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#84D1D7;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:85.8471px;}
+	.st3{font-size:50.9937px;}
+	.st4{font-size:47.0103px;}
+	.st5{font-size:64.0559px;}
+	.st6{font-size:51.4665px;}
+	.st7{font-size:37.1711px;}
+	.st8{font-size:61.3667px;}
+</style>
+<circle class="st0" cx="294" cy="296" r="221.25"/>
+<text transform="matrix(0.9294 0 0 1 153.9536 212.8467)" class="st1 st2">Plan</text>
+<text transform="matrix(1 0 0 1 306.8579 237.5273)" class="st1 st3">Analysis</text>
+<text transform="matrix(1 0 0 1 138.0845 255.2314)" class="st1 st4">Design</text>
+<text transform="matrix(1 0 0 1 208 314.5742)" class="st1 st5">Develop</text>
+<text transform="matrix(1 0 0 1 143.4004 362.8066)" class="st1 st6">Testing</text>
+<text transform="matrix(1 0 0 1 315 373.563)" class="st1 st7">Implement</text>
+<text transform="matrix(0.8704 0 0 1 184.7881 430.8052)" class="st1 st8">Maintence</text>
+</svg>
